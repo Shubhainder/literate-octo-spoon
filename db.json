@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "john@example.comm",
+      "dateOfBirth": "1990-01-15"
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "email": "jane@example.com",
+      "dateOfBirth": "1992-03-20"
+    },
+    {
+      "id": "4670",
+      "name": "test00",
+      "email": "abc@example.com",
+      "dateOfBirth": "2024-11-07"
+    }
+  ]
+}
